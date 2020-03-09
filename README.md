@@ -5,8 +5,10 @@
 
 <center>Sayfama Hos Geldiniz</center>
 
-<a href="https://github.com/BurakGulirmak/BurakGulirmak.github.io/blob/master/CV.html">Ödev 1</a>
-
-<a href="">Ödev 2</a>
-
-</html>
+  <nav>
+   <ul>
+    <li><a href="index.html">Home</li>
+	<li><a href="Odev1.html">Odev1</li>
+	<li><a href="Odev2.html">Odev2</li>
+   </ul>
+  </nav>
